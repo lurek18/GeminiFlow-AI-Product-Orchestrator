@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SHOP>
+    <SHOPITEM>
+        <SKU>SHOWCASE-001</SKU>
+        <PRODUCTNAME>Průmyslový XML Senzor</PRODUCTNAME>
+        <DESCRIPTION>Vysoce přesný senzor pro automatizaci.</DESCRIPTION>
+        <PARAMS>
+            <PARAM>
+                <NAME>Materiál</NAME>
+                <VALUE>Nerezová ocel</VALUE>
+            </PARAM>
+        </PARAMS>
+    </SHOPITEM>
+</SHOP>
